@@ -31,7 +31,7 @@ To get a local copy of the QuizApp up and running, follow these steps:
 
 ## Database
 
-Database was created in MySQL. It is located in the assets/blog.sql directory of the root folder. This database contains tables related to a ID registration, blog details.
+Database was created in MySQL. It is located in the assets/new.sql directory of the root folder. This database contains tables related to a ID registration, blog details.
 
 ## Contributing
 
